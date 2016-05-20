@@ -1,0 +1,5 @@
+hu.abaloghbiro.springcloud.tutorial.customerservice
+hu.abaloghbiro.springcloud.tutorial.customerservice.dao
+hu.abaloghbiro.springcloud.tutorial.customerservice.loader
+hu.abaloghbiro.springcloud.tutorial.customerservice.service
+hu.abaloghbiro.springcloud.tutorial.customerservice.web

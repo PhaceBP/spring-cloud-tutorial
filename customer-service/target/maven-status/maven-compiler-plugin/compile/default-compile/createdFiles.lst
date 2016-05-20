@@ -1,0 +1,6 @@
+hu\abaloghbiro\springcloud\tutorial\customerservice\service\DefaultCustomerService.class
+hu\abaloghbiro\springcloud\tutorial\customerservice\loader\CustomerLoader.class
+hu\abaloghbiro\springcloud\tutorial\customerservice\dao\CustomerRespository.class
+hu\abaloghbiro\springcloud\tutorial\customerservice\App.class
+hu\abaloghbiro\springcloud\tutorial\customerservice\service\CustomerService.class
+hu\abaloghbiro\springcloud\tutorial\customerservice\web\CustomerServiceController.class
